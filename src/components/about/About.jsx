@@ -68,7 +68,10 @@ const About = () => {
 
           <p>
 
-          Hello, My name is Kavindu and I am skilled in a variety of web development technologies including HTML, CSS, JavaScript, and jQuery.I have a strong passion for developing clean and responsive websites that not only meet my clients' needs but also provide a great user experience for their visitors.
+          My goal as a frontend developer is to create intuitive and visually appealing user interfaces that enhance the overall user experience. I am driven by a continuous desire to
+learn and stay updated with the latest industry trends and best practices. With a strong
+attention to detail and problem-solving abilities, I strive to deliver high-quality code that
+is clean, maintainable, and optimized for performance.
 
           </p>
 

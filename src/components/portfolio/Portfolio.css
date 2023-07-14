@@ -48,6 +48,14 @@
 }
 
 
+@media screen and (max-width: 1370px){
+
+    #portfolio{
+        margin-top: 15rem;
+        padding-top: 4rem;
+    }
+}
+
 @media screen and (max-width: 1024px){
 
     #portfolio{

@@ -171,7 +171,13 @@ header{
 
     header{
         /* background: red; */
-        height: 100vh;
+        margin-top: 1rem;
+        height: 70vh;
+    }
+
+    .me{
+        margin-top: 2rem;
+        height: 45rem;
     }
 
     .me > img{

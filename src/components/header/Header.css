@@ -115,6 +115,34 @@ header{
 
 /*medium devices*/
 
+
+@media screen and (max-width: 1370px){
+
+    header{
+        /* background: red; */
+        /* height: 100vh; */
+        margin-top: -5rem;
+        height: 115vh;
+        margin-bottom: 0rem;
+
+    }
+
+    .me{
+        margin-top: 1rem;
+        height: 70%;
+    }
+
+    .me > img{
+
+        margin: -4rem auto;
+        width: 20rem;
+        height: 20rem;
+        /* margin: auto; */
+    }
+
+
+}
+
 @media screen and (max-width: 1024px){
 
     header{

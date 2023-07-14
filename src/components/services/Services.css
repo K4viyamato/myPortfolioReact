@@ -75,6 +75,13 @@
 }
 
 
+@media screen and (max-width: 1370px){
+
+    #services{
+        padding-top: 4rem;
+    }
+}
+
 
 @media screen and (max-width: 1024px){
 

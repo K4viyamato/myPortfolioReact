@@ -85,6 +85,15 @@ textarea {
 }
 
 
+@media screen and (max-width: 1370px){
+    
+    #contacts{
+        margin-top: 20rem;
+        padding-top: 4rem;
+    }
+}
+
+
 @media screen and (max-width: 1024px){
 
     .container.contact__container{

@@ -64,6 +64,21 @@
 }
 
 
+@media screen and (max-width: 1370px){
+
+    #testmon{
+        margin-top: 30rem;
+        padding-top: 4rem;
+    }
+    .container.testimonial__container {
+
+        
+        height: 35rem;
+
+    }
+}
+
+
 @media screen and (max-width: 1024px){
 
     #testmon{

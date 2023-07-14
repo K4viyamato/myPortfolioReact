@@ -61,6 +61,14 @@ footer a {
 }
 
 
+@media screen and (max-width: 1370px){
+
+    footer{
+       margin-top: 12rem;
+    }
+}
+
+
 @media screen and (max-width: 1024px){
 
     footer{

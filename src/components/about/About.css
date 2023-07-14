@@ -116,6 +116,13 @@ section{
 
 /*medium devices*/
 
+@media screen and (max-width: 1370px){
+
+    #about{
+        padding-top: 4rem;
+    }
+}
+
 @media screen and (max-width: 1024px){
 
     .about__container{

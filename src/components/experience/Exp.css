@@ -69,6 +69,13 @@
 
 /*medium devices*/
 
+@media screen and (max-width: 1370px){
+
+    #experience{
+        padding-top: 4rem;
+    }
+}
+
 @media screen and (max-width: 1024px){
 
     .experience__container{
